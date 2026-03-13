@@ -48,7 +48,7 @@ The application collects the following fields for each fund:
 1. Ensure all dependencies are correctly configured in your project.
 2. Run the `Main.java` class.
 3. Monitor the progress via the console.
-4. Find the generated Excel file in the project directory upon completion.
+4. Find the generated Excel file in the current user desktop upon completion.
 
 ---
 
