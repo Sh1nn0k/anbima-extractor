@@ -1,4 +1,4 @@
-# ANBIMA Data Scraper
+# ANBIMA Extractor
 
 A Java-based web scraping application designed to extract investment fund data from the official ANBIMA Data portal. The tool automates browser navigation to collect comprehensive fund details and exports the gathered information into an Excel spreadsheet.
 
